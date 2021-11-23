@@ -1,5 +1,7 @@
 # web-monkey
 
+!web-monkey](img/iste-front.png?raw=true "Web-Monkey")
+
 Plan is to create website for my freelance thing with github and netlify.
 Domain  is already there, so all we need is this:)
 
