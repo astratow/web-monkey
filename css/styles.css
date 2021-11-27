@@ -11782,8 +11782,10 @@ section#contact form#contactForm :-ms-input-placeholder {
 .about {
   text-align: center;
   font-size: 1.5rem;
-  border: 0.1em solid black;
+  border: 0.1em solid white;
   border-radius: 0.6em;
-  padding: 2em;
- 
+  padding: 2em; 
+}
+.services-text{
+  font-size: 1.3rem;
 }
