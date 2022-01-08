@@ -11526,7 +11526,7 @@ header.masthead .masthead-heading {
   position: absolute;
   top: 1.5rem;
   right: 1.5rem;
-  width: 3rem;
+  width: 2rem;
   height: 3rem;
   cursor: pointer;
   background-color: transparent;
@@ -11788,4 +11788,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 .services-text{
   font-size: 1.3rem;
+}
+.portfolio-2{
+  border-top: 1.4em;
 }
