@@ -11525,11 +11525,12 @@ header.masthead .masthead-heading {
 .portfolio-modal .close-modal {
   position: absolute;
   top: 1.5rem;
-  right: 1.5rem;
-  width: 2rem;
-  height: 3rem;
+  right: 1rem;
+  width: 1rem;
+  height: 1rem;
   cursor: pointer;
   background-color: transparent;
+  z-index: 10;
 }
 .portfolio-modal .close-modal:hover {
   opacity: 0.3;
