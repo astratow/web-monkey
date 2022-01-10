@@ -2,7 +2,6 @@
 
 [![web-monkey](./img/site-front.png?raw=true "Web-Monkey")](https://web-monkey.netlify.app)
 
-Plan is to create website for my freelance thing with github and netlify.
-Domain  is already there, so all we need is this:)
+Source code for freelance front page. I adapted bootstrap theme to my needs and uploaded website using netlify.
 
-Unfortunatelly the template turned up to be outdated, hence I had to find another one, which is very similar, yet lighter. See how it goes.  
+Website is functional, contact form had some issues, but that is now resolved.
